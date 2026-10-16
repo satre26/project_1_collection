@@ -23,11 +23,11 @@ title: Poetry Across Time
 tagline: Global poetry across time
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-CSV is a template for creating digital collection exhibits using static web technology."
+description: Objects from the Library of Congress Free to use collections that contain poetry and poetry related art
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: idaho; history; inland northwest
+keywords: art; history; poetry
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: Sudnya Atre
 
 ##########
 # COLLECTION SETTINGS
