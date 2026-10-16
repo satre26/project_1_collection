@@ -10,7 +10,7 @@
 # use either an objectid (from an item in this collect), a relative location of an image in this repo, or a full url to an image elsewhere
 featured-image: sample_001
 featured-image-alt-text: # add alt text if using url for featured-image (objectid will be automatic from metadata)
-# optional: add extra padding above collection title for a larger image feature. 
+# optional: add extra padding above collection title for a larger image feature.
 home-title-y-padding: 10em # the margin from the top your title portion will appear.
 # optional: change position of background image, center, top, bottom
 home-banner-image-position: center # Default is center
@@ -67,8 +67,8 @@ year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in d
 year-nav-increment: 5 # set increments to auto gen nav years
 
 ##########
-# DATA 
-# 
+# DATA
+#
 # add metadata fields for export in data downloads (tip: paste in first row of csv)
 # comma delimited list, reference url is automatic
 metadata-export-fields: "title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement"
@@ -76,8 +76,8 @@ metadata-export-fields: "title,creator,date,description,subject,location,latitud
 metadata-facets-fields: "subject,creator,format"
 
 ##########
-# Compound Objects 
-# 
+# Compound Objects
+#
 # Ignore this section if you are not including any compound objects
 # Note, like other items, child objects will only appear in visualizations if they have the correct metadata (lat long for map; date for timeline)
 # select true below if you'd like your compound object's child objects to appear in any of the pages or features listed
@@ -119,14 +119,14 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the template uses Bootstrap Icons, https://icons.getbootstrap.com/
 # find the names on the BI icons page, e.g. file-image
 #
-# icons: 
+# icons:
 #   icon-image: image
 #   icon-audio: soundwave
 #   icon-video: film
 #   icon-pdf: file-pdf
 #   icon-record: file-text
 #   icon-panorama: image-alt
-#   icon-compound-object: collection 
+#   icon-compound-object: collection
 #   icon-multiple: postcard
 #   icon-default: file-earmark # fall back icon
 #   icon-back-to-top: arrow-up-square
