@@ -42,14 +42,14 @@ metadata: poetry-metadata
 #     template: 'item'
 #     name: 'objectid'
 #     dir: 'items'
-#     extension: 'html' 
-#     filter: 'objectid'  
+#     extension: 'html'
+#     filter: 'objectid'
 
 ##########
 # ORGANIZATION SETTINGS
 #
 # Enter name and link for your organization (replacing the name and links below)
-# These values will be used in attribution and data 
+# These values will be used in attribution and data
 #organization-name:
 #organization-link:
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
@@ -60,10 +60,10 @@ metadata: poetry-metadata
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-# noindex: true 
+# noindex: true
 
 ##########
-# BUILD SETTINGS 
+# BUILD SETTINGS
 #
 # Note: use environment variable on build command to include analytics
 # JEKYLL_ENV=production jekyll build
